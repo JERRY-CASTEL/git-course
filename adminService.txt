@@ -1,2 +1,4 @@
 add or remove users
 change user admins
+
+login and logout
