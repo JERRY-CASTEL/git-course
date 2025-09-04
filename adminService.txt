@@ -4,5 +4,10 @@ change user admins
 login and logout
 manage database
 
+<<<<<<< HEAD
 change1
 change2
+=======
+
+change from feature3 
+>>>>>>> feature3
