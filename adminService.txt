@@ -1,8 +1,8 @@
 add or remove users
 change user admins
-<<<<<<< HEAD
 
 login and logout
-=======
 manage database
->>>>>>> feature1
+
+
+change from feature3 
